@@ -1,0 +1,98 @@
+@import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@300..700&display=swap');
+
+:root {
+  --fira-code: "Fira Code", "Courier New", serif;
+  --dark-color:   #373226;
+  --light-color: #ffffff;
+}
+
+html {
+  margin: 0;
+  padding: 0;
+  font-family: var(--fira-code);
+  font-size: 10px;
+}
+
+body {
+  font-size: 1.6rem;
+  background-color: var(--light-color);
+  color: var(--dark-color);
+}
+
+#header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  padding: 0 10vw;
+  height: 30rem;
+}
+
+#tagline {
+  font-weight: 700;
+  rotate: -90deg;
+  text-align: center;
+  transition: rotate 0.7s ease;
+  cursor: none;
+}
+
+#tagline:hover {
+  rotate: 90deg;
+}
+
+#tagline #design {
+  rotate: 180deg;
+}
+
+#tagline hr {
+  height: 0.2rem;
+  border: none;
+  border-radius: 0.15rem;
+  background-color: #111;
+}
+
+#header-logo {
+  width: 15rem;
+}
+
+.logo {
+  fill: var(--dark-color);
+  transition: fill 0.2s ease;
+  cursor: none;
+}
+
+.logo:hover {
+  fill: #fdb514;
+}
+
+/* .letter:hover path {
+  fill: #111;
+  fill: #266726;
+  } */
+  
+#burger {
+  width: 100px;
+  fill: var(--dark-color);
+  cursor: pointer;
+}
+
+#burger * {
+  transition: fill 0.2s ease;
+}
+
+#burger:hover .bun { fill: #a46b0e; }
+#burger:hover #lettuce { fill:#0e691a; }  
+#burger:hover #cheese { fill: #fdb514; }
+#burger:hover #patty { fill: #593a07; }
+
+#hero {
+  width: 75vw;
+  height: 100vh;
+  margin: auto;
+  background-color: rgb(28, 49, 81);
+  border-radius: 2rem 2rem 0 0;
+  display: flex;
+  justify-content: center;
+  padding: 5rem;
+  color: var(--light-color);
+}
