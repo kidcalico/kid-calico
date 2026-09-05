@@ -26,6 +26,8 @@ body {
 
 header {
   display: flex;
+  /* grid-template-columns: 20vw 20vw 20vw; */
+
   justify-content: space-between;
   align-items: center;
 
@@ -48,6 +50,8 @@ a:hover, a:active {
 
 
 #tagline {
+  display: block;
+  width: auto;
   font-weight: 700;
   rotate: -90deg;
   text-align: center;
@@ -91,11 +95,8 @@ a:hover, a:active {
   padding: 10px;
 }
 
-button {
-  all: unset;
-}
-
 .burger {
+  all: unset;
   width: 100px;
   fill: var(--dark-color);
   cursor: pointer;
@@ -122,16 +123,25 @@ button {
 }
 
 #hero {
-  width: 70vw;
-  height: 100vh;
+  /* width: 50vw; */
+  /* height: 100vh; */
   margin: auto;
-  background-color: var(--brand-color-secondary);
+  /* background-color: var(--brand-color-secondary); */
   border-radius: 2rem 2rem 0 0;
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 5rem;
   color: var(--light-color);
+  fill: var(--dark-color);
+}
+#V2:hover #monotropic,
+#V2:hover #orb {
+  fill: var(--brand-color-secondary);
+}
+
+.hero-graphic {
+  width: 30vw;
 }
 
 .container h1, 
@@ -156,4 +166,14 @@ button {
 }
 .body-content p {
   padding: 1rem 0;
+}
+
+@media screen and (min-width: 600px) {
+  /* .menu {
+    display: flex;
+  } */
+
+  /* .burger {
+    display: none;
+  } */
 }
