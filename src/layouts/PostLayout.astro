@@ -1,0 +1,17 @@
+---
+import BaseLayout from "./BaseLayout.astro";
+
+const { frontmatter } = Astro.props;
+---
+<BaseLayout>
+  <div class="container">
+    <div class="post-content">
+      <h1>{frontmatter.title}</h1>
+      <div class="post-info">Written by { frontmatter.author }</div>
+      <div class="post-info">on {frontmatter.pubDate.toString().slice(0,10) }</div>
+      <div class="body-content">
+        <slot />
+      </div>
+    </div>
+  </div>
+</BaseLayout>

@@ -1,0 +1,19 @@
+---
+import Layout from '../layouts/BaseLayout.astro';
+import BlogPost from '../components/BlogPost.astro';
+
+const allPosts = Object.values(import.meta.glob('./posts/*.md', {eager: true}))
+const sortedPosts = (allPosts as any[]).sort((a, b) => new Date(b.frontmatter.pubDate).getTime() - new Date(a.frontmatter.pubDate).getTime())
+const pageTitle = 'the kid calico blog'
+---
+
+<Layout pageTitle = {pageTitle}>
+  <div class="container">
+    <div class="blog-index">
+      <h1>blog posts</h1>
+      <ul>
+        {sortedPosts.map((post: any) => <BlogPost postTitle={post.frontmatter.title} postUrl={post.url} />)}
+      </ul>
+    </div>
+  </div>
+</Layout>

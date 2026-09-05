@@ -3,12 +3,17 @@
 :root {
   --fira-code: "Fira Code", "Courier New", serif;
   --dark-color:   #373226;
-  --light-color: #ffffff;
+  --light-color: #F6F2EC;
+  --brand-color-primary: #FDB514;
+  --brand-color-secondary: #1c3151;
+}
+
+* {
+  margin: 0;
+  padding: 0;
 }
 
 html {
-  margin: 0;
-  padding: 0;
   font-family: var(--fira-code);
   font-size: 10px;
 }
@@ -19,7 +24,7 @@ body {
   color: var(--dark-color);
 }
 
-#header {
+header {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -28,6 +33,20 @@ body {
   height: 30rem;
 }
 
+ul {
+  list-style: none;
+  padding: 0;
+}
+
+a, a:visited {
+  color: var(--dark-color);
+  text-decoration: underline;
+}
+a:hover, a:active {
+  color: var(--brand-color-primary);
+}
+
+
 #tagline {
   font-weight: 700;
   rotate: -90deg;
@@ -35,15 +54,12 @@ body {
   transition: rotate 0.7s ease;
   cursor: none;
 }
-
 #tagline:hover {
   rotate: 90deg;
 }
-
 #tagline #design {
   rotate: 180deg;
 }
-
 #tagline hr {
   height: 0.2rem;
   border: none;
@@ -51,49 +67,93 @@ body {
   background-color: #111;
 }
 
-#header-logo {
-  width: 15rem;
-}
-
 .logo {
   fill: var(--dark-color);
-  transition: fill 0.2s ease;
+  transition: fill 0.1s ease;
   cursor: none;
 }
-
-.logo:hover {
-  fill: #fdb514;
+#header-logo {
+  width: 15rem;
+  /* flex: 2; */
+}
+#header-logo:hover .logo {
+  fill: var(--brand-color-primary);
 }
 
-/* .letter:hover path {
-  fill: #111;
-  fill: #266726;
-  } */
-  
-#burger {
+#nav {
+  display: flex;
+  gap: 20px;
+  align-items: center;
+}
+
+.menu{ display: none; }
+.menu * {
+  padding: 10px;
+}
+
+button {
+  all: unset;
+}
+
+.burger {
   width: 100px;
   fill: var(--dark-color);
   cursor: pointer;
 }
-
-#burger * {
+.burger * {
   transition: fill 0.2s ease;
 }
+.burger:hover .bun { fill: #a46b0e; }
+.burger:hover #lettuce { fill:#0e691a; }  
+.burger:hover #cheese { fill: #fdb514; }
+.burger:hover #patty { fill: #593a07; }
+/* .burger:hover .menu { display: block;} */
 
-#burger:hover .bun { fill: #a46b0e; }
-#burger:hover #lettuce { fill:#0e691a; }  
-#burger:hover #cheese { fill: #fdb514; }
-#burger:hover #patty { fill: #593a07; }
+.headline {
+  text-align: center;
+  padding: 20px;
+}
+
+.container {
+  display: flex;
+
+  margin: auto;
+  /* width: 80vw; */
+}
 
 #hero {
-  width: 75vw;
+  width: 70vw;
   height: 100vh;
   margin: auto;
-  background-color: rgb(28, 49, 81);
+  background-color: var(--brand-color-secondary);
   border-radius: 2rem 2rem 0 0;
   display: flex;
   flex-direction: column;
   align-items: center;
   padding: 5rem;
   color: var(--light-color);
+}
+
+.container h1, 
+.container .post-info {
+  text-align: center;
+}
+
+.post-content, .blog-index {
+  display: flex;
+  flex-direction: column;
+  width: clamp(400px, 80vw, 800px);
+  /* align-items: center; */
+  /* text-align: center; */
+  margin: auto;
+}
+.blog-index h1 {
+  text-align: center;
+}
+
+.body-content {
+  padding: 20px;
+}
+.body-content p {
+  padding: 1rem 0;
 }

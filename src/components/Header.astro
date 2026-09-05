@@ -3,7 +3,7 @@ import Navigation from './Navigation.astro';
 import Logo from './Logo.astro';
 import logo from '../../public/images/kid-calico-web-logo-black.svg';
 ---
-<div id="header">
+<header>
   <div id="tagline">
     <div>Divergent</div>
     <hr>
@@ -11,9 +11,11 @@ import logo from '../../public/images/kid-calico-web-logo-black.svg';
   </div>
 
   <div id="header-logo">
-    <Logo />
-    <!-- <img src={logo.src} alt="Kid Calico"> -->
+    <a href="/">
+      <Logo />
+    </a>
   </div>
-  
+
   <Navigation />
-</div>
+
+</header>
