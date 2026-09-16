@@ -148,7 +148,7 @@ a:hover, a:active {
 .post-content, .blog-index {
   display: flex;
   flex-direction: column;
-  width: min(800px, 90vw);
+  width: min(80rem, 90vw);
   margin: auto;
 }
 .blog-index h1 {
