@@ -28,9 +28,10 @@ Maybe it's because I'm a dreamer by nature that this routine of keeping lists an
 
 I have the tendency toward entropy, which gets chaotic during certain stages, especially when left unchecked. Yesterday morning was spent working on the data architecture for a coding project, the morning before I was doing some lettering. This morning I felt like a zombie. (I guess that's fitting because halloween is tomorrow.)
 
-I'm working on it though. Baby steps. Yesterday I thought of dubbing the period of life I am going through "burnout hangover". After several years, the longest period of burnout of my life, I am finally experiencing glimpses of recovery. Though I'm still having ups and downs, my average level of operation is so much better than it was even a year ago.
-
 ![lazy bones, with cartoony bone lettering](/images/blog-imagery/lazy_bones-black.png)
+<figcaption>Wednesday morning's art therapy. Burnout makes my bones feel lazy.</figcaption>
+
+I'm working on it though. Baby steps. Yesterday I thought of dubbing the period of life I am going through "burnout hangover". After several years, the longest period of burnout of my life, I am finally experiencing glimpses of recovery. Though I'm still having ups and downs, my average level of operation is so much better than it was even a year ago.
 
 For a lot of my life, managing burnout has been a lot like fumbling around in the dark, while also underwater. Once I self identified as AuDHD, everything started to make sense. The more that I learned, the deeper I dove into the research and the online community, I was able to start understanding more deeply why my brain operates in the way that it does.
 
