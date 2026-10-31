@@ -15,7 +15,7 @@ tags: ["kid calico", "AuDHD", "burnout", "recovery", "mental health"]
 
 Unsolidified habit fades away over time.
 
-I dream of living in adherence to at least some semblance of a self-enforced routine but as soon as I gain the agency, I lose all momentum. These days I've been bullet journaling, but even that can be a hollow facade, a way to placate my need for productivity by drawing little boxes on the last page of my journal.
+I dream of living in adherence to at least some semblance of a self-enforced routine but as soon as I gain the agency, I lose all momentum. These days I've been bullet journaling, but even that can be a hollow façade, a way to placate my need for productivity by drawing little boxes on the last page of my journal.
 
 Then some other unexpected happening of the day announces itself and I get diverted (or divert myself) from two or three (or all) of my desired habits.
 
