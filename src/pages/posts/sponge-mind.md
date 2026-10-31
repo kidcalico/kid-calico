@@ -2,7 +2,7 @@
 layout: ../../layouts/PostLayout.astro
 postNumber: 0003
 pubDate: 2026-09-09
-lastEdit: 2026-09-09
+lastEdit: 2026-10-30
 title: 'sponge mind'
 description: 'Notes on self diagnosis and burnout recovery.'
 author: 'Ryan Miltenberger'
@@ -28,9 +28,9 @@ I would have never guessed that self diagnosis could do so much for a person. I 
 
 All I can say at this point is ... I've tried to seek diagnosis. I was dismissed by adults when I first though I was autistic at sixteen. I also was still living at home and wasn't yet struggling as much as I later would. At twenty three I was very burnt out and realized I had ADHD but thought the only help I would get would be stimulants, and for all I know I might have been right. It came up again a few times in later years, but it was mostly met with incredulity, because I DON'T LOOK OR ACT autistic.
 
-Lately, I've been meeting with a Psychologist, and I might be eligible for an ADHD screening but a referral for an autism assessment is apparantly more difficult to get even though I've asked for it. All that is beside the point.
+Lately, I've been meeting with a Psychologist, and I might be eligible for an ADHD screening but a referral for an autism assessment is apparently more difficult to get even though I've asked for it. All that is beside the point.
 
-I want to talk about *self* diagnosis, because self diagnosis was the key that led me to understanding myelf and my nervous system in detail. All the books I read and videos I watched clicked so easily in a brain that can barely get through an episode of *Young Sheldon* without subtitles and rewinding. These resources I found, all through the internet, were like reading a guidebook to my freak of nature mind. I'm still dealing with that freak stigma, but it's getting better. 
+I want to talk about *self* diagnosis, because self diagnosis was the key that led me to understanding myself and my nervous system in detail. All the books I read and videos I watched clicked so easily in a brain that can barely get through an episode of *Young Sheldon* without subtitles and rewinding. These resources I found, all through the internet, were like reading a guidebook to my freak of nature mind. I'm still dealing with that freak stigma, but it's getting better. 
 
 Self diagnosis led to self understanding, a subject I am not unaware of, being a student of the Upanishads. Self diagnosis delivered pieces of the puzzle that years of meditation, contemplating non-duality were never going to bring... not if I wanted to avoid living in a cave or a monastery. Jury's out on that one, it could happen.
 
