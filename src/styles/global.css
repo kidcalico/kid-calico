@@ -26,12 +26,15 @@ body {
 }
 
 header {
+  width: min(80rem, 90vw);
+  margin: auto;
+
   display: flex;
 
   justify-content: space-between;
   align-items: center;
 
-  padding: 25px 10vw;
+  padding: 25px 0vw;
   height: 15rem;
 }
 
@@ -127,6 +130,7 @@ a:hover, a:active {
 .container {
   display: flex;
   margin: auto;
+  padding: 5rem 0 10rem;
 }
 
 #hero {
@@ -178,7 +182,6 @@ a:hover, a:active {
 
 .body-content img {
   align-self: center;
-  width: min(75rem, 80vw);
 }
 
 .body-content figcaption {
