@@ -2,7 +2,7 @@
 layout: ../../layouts/PostLayout.astro
 postNumber: 0003
 pubDate: 2026-09-09
-lastEdit: 2026-10-30
+lastEdit: 2026-11-05
 title: 'sponge mind'
 description: 'notes on self diagnosis and burnout recovery'
 author: 'ryan miltenberger'

@@ -4,12 +4,12 @@ postNumber: 0006
 pubDate: 2026-11-03 #YYYY-MM-DD
 lastEdit: 2026-11-05
 title: 'day by day'
-description: 'notes on burnout recovery'
+description: 'notes on burnout recovery and self diagnosis'
 author: 'ryan miltenberger'
 image:
     url: '/images/blog-imagery/'
     alt: ''
-tags: ["kid calico", "burnout", "neurodivergence", "AuDHD", "recovery", "self care"]
+tags: ["kid calico", "burnout", "neurodivergence", "AuDHD", "recovery", "self care", "self diagnosis"]
 ---
 
 Day by day I'm doing better. I have more energy, my digestion has improved, my attention, though not always easy to direct, is more focused than it has been in years. My capacity for social interaction has improved. Anxiety no longer pops up seemingly for no reason at all. Since I self identified my own personal flavor of neurodivergence, things have only gotten better.
