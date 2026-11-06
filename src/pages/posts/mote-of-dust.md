@@ -2,10 +2,10 @@
 layout: ../../layouts/PostLayout.astro
 postNumber: 0004
 pubDate: 2026-09-14
-lastEdit: 2026-09-15
+lastEdit: 2026-11-05
 title: 'mote of dust'
-description: 'notes on burnout'
-author: 'Ryan Miltenberger'
+description: 'notes from burnout'
+author: 'ryan miltenberger'
 image:
     # url: '/images/blog-imagery/'
     # alt: ''

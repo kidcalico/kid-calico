@@ -4,8 +4,8 @@ postNumber: 0003
 pubDate: 2026-09-09
 lastEdit: 2026-10-30
 title: 'sponge mind'
-description: 'Notes on self diagnosis and burnout recovery.'
-author: 'Ryan Miltenberger'
+description: 'notes on self diagnosis and burnout recovery'
+author: 'ryan miltenberger'
 image:
     # url: '/images/blog-imagery/'
     # alt: ''

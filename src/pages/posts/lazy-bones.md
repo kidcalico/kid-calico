@@ -2,16 +2,15 @@
 layout: ../../layouts/PostLayout.astro
 postNumber: 0005
 pubDate: 2026-10-30
-lastEdit: 2026-10-30
-title: 'lazy bones (notes on burnout recovery)'
-description: "Free writing, how I'm doing"
-author: 'Ryan Miltenberger'
+lastEdit: 2026-11-05
+title: 'lazy bones'
+description: 'notes on burnout recovery'
+author: 'ryan miltenberger'
 image:
-    url: '/images/blog-imagery/lazy_bones.png'
-    alt: ''
+    url: '/images/blog-imagery/lazy_bones-black.png'
+    alt: 'lazy bones lettered in bones'
 tags: ["kid calico", "AuDHD", "burnout", "recovery", "mental health"]
 ---
-
 
 Unsolidified habit fades away over time.
 

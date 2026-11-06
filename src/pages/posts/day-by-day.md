@@ -2,10 +2,10 @@
 layout: ../../layouts/PostLayout.astro
 postNumber: 0006
 pubDate: 2026-11-03 #YYYY-MM-DD
-lastEdit: 2026-11-03
-title: 'day by day (notes on burnout recovery)'
-description: 'notes on burnout'
-author: 'Ryan Miltenberger'
+lastEdit: 2026-11-05
+title: 'day by day'
+description: 'notes on burnout recovery'
+author: 'ryan miltenberger'
 image:
     url: '/images/blog-imagery/'
     alt: ''

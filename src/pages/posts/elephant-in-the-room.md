@@ -2,9 +2,9 @@
 layout: ../../layouts/PostLayout.astro
 postNumber: 0002
 pubDate: 2026-09-08
-lastEdit: 2026-09-09
+lastEdit: 2026-11-05
 title: 'elephant in the room'
-description: 'Notes on neurodivergent burnout and recovery.'
+description: 'notes on burnout and recovery'
 author: 'ryan miltenberger'
 image:
     # url: '/images/blog-imagery/'

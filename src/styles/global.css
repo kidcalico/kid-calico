@@ -35,6 +35,16 @@ header {
   height: 15rem;
 }
 
+h1 {
+  font-size: 4rem;
+  font-weight: 900;
+}
+
+h2 {
+  font-weight: 100;
+  font-size: 2.5rem;
+}
+
 ul {
   list-style: none;
   padding: 0;
@@ -116,7 +126,6 @@ a:hover, a:active {
 
 .container {
   display: flex;
-
   margin: auto;
 }
 
@@ -140,9 +149,14 @@ a:hover, a:active {
   width: 30vw;
 }
 
-.container h1, 
+.container h1,
+.container h2,
 .container .post-info {
   text-align: center;
+}
+
+.post-info {
+  margin-top: 2rem;
 }
 
 .post-content, .blog-index {

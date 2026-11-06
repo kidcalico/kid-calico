@@ -7,8 +7,11 @@ const { frontmatter } = Astro.props;
   <div class="container">
     <div class="post-content">
       <h1>{frontmatter.title}</h1>
-      <div class="post-info">Written by { frontmatter.author }</div>
-      <div class="post-info">on {frontmatter.pubDate.toString().slice(0,10) }</div>
+      <h2>{frontmatter.description}</h2>
+      <div class="post-info">
+        <div>Written by { frontmatter.author }</div>
+        <div>on {frontmatter.pubDate.toString().slice(0,10) }</div>
+      </div>
       <div class="body-content">
         <slot />
       </div>
