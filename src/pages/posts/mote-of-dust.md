@@ -7,8 +7,8 @@ title: 'mote of dust'
 description: 'notes from burnout'
 author: 'ryan miltenberger'
 image:
-    # url: '/images/blog-imagery/'
-    # alt: ''
+    url: '/images/blog-imagery/'
+    alt: ''
 tags: ["kid calico", "neurodivergence", "burnout", "mental health", "AuDHD"]
 ---
 

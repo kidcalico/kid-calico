@@ -163,7 +163,7 @@ a:hover, a:active {
   margin-top: 2rem;
 }
 
-.post-content, .blog-index {
+.post-content, .body-content img, .blog-index {
   display: flex;
   flex-direction: column;
   width: min(80rem, 90vw);
@@ -186,6 +186,7 @@ a:hover, a:active {
 
 .body-content figcaption {
   font-size: 1.2rem;
+  text-align: center;
 }
 
 @media screen and (min-width: 600px) {

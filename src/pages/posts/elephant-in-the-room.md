@@ -7,8 +7,8 @@ title: 'elephant in the room'
 description: 'notes on burnout and recovery'
 author: 'ryan miltenberger'
 image:
-    # url: '/images/blog-imagery/'
-    # alt: ''
+    url: '/images/blog-imagery/'
+    alt: ''
 tags: ["kid calico", "neurodivergent burnout", "AuDHD", "self care", "self actualization"]
 ---
 

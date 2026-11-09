@@ -7,8 +7,9 @@ title: 'day by day'
 description: 'notes on burnout recovery and self diagnosis'
 author: 'ryan miltenberger'
 image:
-    url: '/images/blog-imagery/'
-    alt: ''
+    url: '/images/blog-imagery/sluggish.png'
+    alt: 'the word sluggish in the shape of a banana slug'
+    caption: "One way to express how burnout feels."
 tags: ["kid calico", "burnout", "neurodivergence", "AuDHD", "recovery", "self care", "self diagnosis"]
 ---
 

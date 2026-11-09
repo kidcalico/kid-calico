@@ -7,8 +7,8 @@ title: 'sponge mind'
 description: 'notes on self diagnosis and burnout recovery'
 author: 'ryan miltenberger'
 image:
-    # url: '/images/blog-imagery/'
-    # alt: ''
+    url: '/images/blog-imagery/'
+    alt: ''
 tags: ["kid calico", "neurodivergence", "AuDHD", "burnout recovery", "self diagnosis"]
 ---
 

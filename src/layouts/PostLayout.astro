@@ -13,6 +13,8 @@ const { frontmatter } = Astro.props;
         <div>on {frontmatter.pubDate.toString().slice(0,10) }</div>
       </div>
       <div class="body-content">
+        <img src={frontmatter.image.url} alt={frontmatter.image.alt}>
+        <figcaption>{frontmatter.image.caption}</figcaption>
         <slot />
       </div>
     </div>

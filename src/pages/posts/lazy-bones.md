@@ -7,7 +7,7 @@ title: 'lazy bones'
 description: 'notes on burnout recovery'
 author: 'ryan miltenberger'
 image:
-    url: '/images/blog-imagery/lazy_bones-black.png'
+    url: '/images/blog-imagery/'
     alt: 'lazy bones lettered in bones'
 tags: ["kid calico", "AuDHD", "burnout", "recovery", "mental health"]
 ---
