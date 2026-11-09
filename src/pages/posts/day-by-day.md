@@ -9,7 +9,7 @@ author: 'ryan miltenberger'
 image:
     url: '/images/blog-imagery/sluggish.png'
     alt: 'the word sluggish in the shape of a banana slug'
-    caption: "One way to express how burnout feels."
+    caption: ''
 tags: ["kid calico", "burnout", "neurodivergence", "AuDHD", "recovery", "self care", "self diagnosis"]
 ---
 
