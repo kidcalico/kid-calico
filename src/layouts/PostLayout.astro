@@ -9,7 +9,7 @@ const { frontmatter } = Astro.props;
       <h1>{frontmatter.title}</h1>
       <h2>{frontmatter.description}</h2>
       <div class="post-info">
-        <div>Written by { frontmatter.author }</div>
+        <div>written by { frontmatter.author }</div>
         <div>on {frontmatter.pubDate.toString().slice(0,10) }</div>
       </div>
       <div class="body-content">
